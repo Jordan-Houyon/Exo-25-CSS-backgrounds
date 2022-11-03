@@ -1,0 +1,17 @@
+html body{
+  background-image: url(img/fond.png);
+  background-size: cover;
+}
+
+.test{
+  background: red;
+  min-height: 300px;
+  min-width: 150px;
+  max-width: 200%;
+  max-height: 300px;
+}
+.test h1{
+  width: 80%;
+  background: blue;
+  height: 180px;
+}
